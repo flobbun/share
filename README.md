@@ -1,3 +1,7 @@
+# Why?
+
+Sometimes you just don't want to have a monorepo but you want to share types between your projects without having to make crazy stuff on the way to make it work. This script got you covered by just simply copying every shared file to each project
+
 # Usage
 
 ## Configuration
